@@ -2,11 +2,11 @@
 
 ## Plongez dans notre Aventure Technologique 🛠️
 
-Bienvenue dans l'univers captivant de GoBackend, où l'innovation et la passion pour la technologie se rejoignent pour repousser les frontières du développement logiciel. 
+Bienvenue dans l'univers captivant de GoBackend, où l'innovation et la passion pour la technologie se rejoignent pour repousser les frontières du développement logiciel.
 
 ## Notre Mission : Transformer le Développement Backend 🌟
 
-Chez GoBackend, notre mission est claire : révolutionner le processus de développement backend. Nous croyons fermement que l'automatisation peut rendre le développement logiciel plus rapide, plus efficace et plus accessible à tous. 
+Chez GoBackend, notre mission est claire : révolutionner le processus de développement backend. Nous croyons fermement que l'automatisation peut rendre le développement logiciel plus rapide, plus efficace et plus accessible à tous.
 
 ## Notre Projet Actuel : Automatiser la création des API Web RESTful pour MongoDB 🤖
 
@@ -20,7 +20,7 @@ Chez GoBackend, nous croyons en l'alliance entre l'expertise humaine et les dern
 
 ## Comment Contribuer : Rejoignez notre Équipe 💼
 
-Vous êtes passionné par le développement backend, l'automatisation et les technologies AI ? Rejoignez notre équipe ! Chez GoBackend, nous sommes toujours à la recherche de nouveaux talents pour contribuer à notre projet. Et si vous êtes novice, c'est encore mieux. 
+Vous êtes passionné par le développement backend, l'automatisation et les technologies AI ? Rejoignez notre équipe ! Chez GoBackend, nous sommes toujours à la recherche de nouveaux talents pour contribuer à notre projet. Et si vous êtes novice, c'est encore mieux.
 
 Consultez nos projets sur GitHub pour voir comment vous pouvez nous aider à repousser les limites du possible. Et si vous ne vous sentez pas à la hauteur, vous pouvez aussi apprendre des nouvelles connaissances, car nous aimons travailler avec des novices. 😁
 
@@ -29,4 +29,4 @@ Consultez nos projets sur GitHub pour voir comment vous pouvez nous aider à rep
 Pour toute question, suggestion ou proposition de collaboration, n'hésitez pas à nous contacter :
 
 - Email : gobackendautomation@gmail.com
-- Emain : nathanbangwa243@gmail.com
+- Email : nathanbangwa243@gmail.com
