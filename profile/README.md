@@ -1,4 +1,4 @@
-# 🥳 Bienvenue dans l'organisation GoBackend ! 🚀
+# 🥳 Bienvenue dans la team GoBackend ! 🚀
 
 ## Plongez dans notre Aventure Technologique 🛠️
 
