@@ -6,9 +6,9 @@ Imaginez-vous, il y a quelques années en arrière, en 2020. Je me trouvais chez
 
 Notre équipe avait mis en place un backend puissant propulsé par [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), conçu pour être le moteur secret derrière cette expérience d'achat innovante.
 
-Mais voilà, à peine deux mois après le lancement, nous avons été confrontés à un défi de taille. Les maîtres du backend, ceux qui avaient conçu cette machinerie complexe, avaient quitté l'aventure, nous laissant dans l'embarras. 😟
+Mais voilà, à peine deux mois après le lancement, nous avons été confrontés à un défi de taille. [Les développeurs du backend](https://anakine.io/fiches-metiers-tech/developpeur-back-end/), ceux qui avaient conçu cette machinerie complexe, avaient quitté l'aventure, nous laissant dans l'embarras. 😟
 
-Les développeurs du front-end, eux, étaient prêts à faire des miracles, mais ils avaient besoin de données, d'[API Web](https://www.redhat.com/fr/topics/api/what-are-application-programming-interfaces) pour donner vie à leurs créations. Et notre système de gestion de base de données reposait sur [MongoDB](https://www.mongodb.com/).
+[Les développeurs du front-end](https://anakine.io/fiches-metiers-tech/tout-savoir-sur-le-metier-de-developpeur-front-end/), eux, étaient prêts à faire des miracles, mais ils avaient besoin de données, d'[API Web](https://www.redhat.com/fr/topics/api/what-are-application-programming-interfaces) pour donner vie à leurs créations. Et notre système de gestion de base de données reposait sur [MongoDB](https://www.mongodb.com/).
 
 À cette époque, NodeJS restait un mystère pour moi et il le demeure d'ailleurs. Face à cette situation délicate, une idée a surgi dans mon esprit : et si je créais un outil, un genre de super bot en [Python](https://www.python.org/), capable d'automatiser la création et le déploiement d'API Web RESTful avec [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/) ? 💡
 
@@ -40,11 +40,11 @@ Chez GoBackend, nous croyons en l'alliance entre l'expertise humaine et les dern
 
 ## Comment Contribuer : Rejoignez notre Équipe 👨‍👩‍👧‍👦
 
-Vous êtes passionné par [le développement backend](https://anakine.io/fiches-metiers-tech/developpeur-back-end/), l'automatisation et les technologies IA ? Rejoignez notre équipe ! 
+Vous êtes passionné par [le parcours en développement backend](https://roadmap.sh/backend), l'automatisation et les technologies IA ? Rejoignez notre équipe ! 
 
 Chez GoBackend, nous sommes toujours à la recherche de nouveaux talents pour contribuer à notre projet. Et si vous êtes novice et curieux, c'est encore mieux. 😁
 
-Consultez [nos projets sur GitHub](https://github.com/orgs/GoBackend/repositories) pour voir comment vous pouvez nous aider à repousser les limites du possible. Et si vous ne vous sentez pas à la hauteur, vous pouvez aussi [apprendre des nouvelles connaissances](https://learn.microsoft.com/fr-fr/training/), car nous aimons travailler avec des novices. 
+Consultez [nos projets sur GitHub](https://github.com/orgs/GoBackend/repositories) pour voir comment vous pouvez nous aider à repousser les limites du possible. Et si vous ne vous sentez pas à la hauteur, venez pour [apprendre des nouvelles connaissances](https://learn.microsoft.com/fr-fr/training/), car nous aimons travailler avec des novices. 
 
 ## Contactez-nous 📧
 
