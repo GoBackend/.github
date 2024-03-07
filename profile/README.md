@@ -42,7 +42,7 @@ Chez GoBackend, nous croyons en l'alliance entre l'expertise humaine et les dern
 
 Vous êtes passionné par [le parcours en développement backend](https://roadmap.sh/backend), l'automatisation et les technologies IA ? Rejoignez notre équipe ! 
 
-Chez GoBackend, nous sommes toujours à la recherche de nouveaux talents pour contribuer à notre projet. Et si vous êtes novice et curieux, c'est encore mieux. 😁
+Chez GoBackend, nous sommes toujours à la recherche de nouveaux talents pour contribuer à notre projet. Et si vous êtes novice et curieux, c'est encore mieux. 😃
 
 Consultez [nos projets sur GitHub](https://github.com/orgs/GoBackend/repositories) pour voir comment vous pouvez nous aider à repousser les limites du possible. Et si vous ne vous sentez pas à la hauteur, venez pour [apprendre des nouvelles connaissances](https://learn.microsoft.com/fr-fr/training/), car nous aimons travailler avec des novices. 
 
